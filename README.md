@@ -1,4 +1,6 @@
-This is a simple calculator made in python using **tkinter** library.
+This is a simple calculator made in python using **tkinter** library.  
+
+Below is the table which contains the operations that can be used with their symbol.
 
 
   Symbol   | Operations 
